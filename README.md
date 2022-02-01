@@ -21,10 +21,6 @@ Describe any challenges encountered while building the app.
 
 
 
-
-
-
-
 # Flix
 
 **Rahmat Herron**
